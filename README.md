@@ -1,2 +1,4 @@
 # flutter-starter
-Provide a template for Flutter projects. Takes care of things like themes, firebase based logging, authentication, notifications, and integration with firestore
+Provides a template and starting point for Flutter projects. 
+
+Includes prescribed ways of using themes, firebase based logging, authentication, notifications, and integration with firestore
