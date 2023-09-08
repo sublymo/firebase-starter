@@ -70,13 +70,11 @@ android {
     productFlavors {
         dev {
             dimension "starterapp"
-            applicationIdSuffix ".dev"
             resValue "string", "app_name", "Starter App Dev"
             versionNameSuffix "-dev"
         }
         prod {
             dimension "starterapp"
-            applicationIdSuffix ".prod"
             resValue "string", "app_name", "Starter App"
             versionNameSuffix "-prod"
         }
