@@ -18,18 +18,21 @@ name e.g.
 Step 2 - Change the Package name
 
 Change the package name for your app by following the instructions here
+
 [Changing Flutter Package Name](https://pub.dev/packages/change_app_package_name)
 
-Step 3- Change he App Theme and Build flavors 
+Step 3 (Optional) - Change the App Theme and Build flavors 
 The Template already has the following configured but may need additional changes
 1) App Theme Customization
 2) Support for dev and prod build flavors
+3) Logger to log applications events and messaegs
 
 The setup for dev and prod environments is based on the following document
 - [Configure App Flavors in Flutter](https://docs.flutter.dev/deployment/flavors)
+
 A more detailed walkthrough of the above document with screenshots can be found here
 - [Step by Step Guide to App Flavors](https://medium.com/zeza-tech/using-flavors-in-flutter-app-to-separate-development-and-production-environment-b7d759c207f8)
-- 
+
 
 A few resources to get you started if this is your first Flutter project:
 
